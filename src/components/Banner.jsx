@@ -9,7 +9,7 @@ function Banner() {
       }}
     >
       <div className="text-white text-xl text-center w-full bg-blue-900/60 p-4">
-        New Movies 123
+        New Movies
       </div>
     </div>
   );
