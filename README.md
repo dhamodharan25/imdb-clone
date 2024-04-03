@@ -1,8 +1,7 @@
-# React + Vite
+##IMDB CLONE
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+Developed a React-based IMDb clone web app with sleek design using Tailwind CSS, seamlessly integrating a public API for data retrieval and ensuring a user-friendly interface with robust functionality.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+LINK : https://imdb-clone-in.netlify.app/
